@@ -2,7 +2,7 @@
 🎓 Electronics & Telecommunication (ENTC) Engineering Student<br>I'm passionate about technology, embedded systems, PCB design, and software development. <br>I enjoy building projects that combine electronics and programming, while continuously learning new tools and technologies.
 
 
-## 🌐 Socials:
+## 🌐 Connect with me:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/_s7t_.sidd) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@BIMBO.0070) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:siddheshtupe8000@gmail.com) 
 
 # 💻 Tech Stack:
@@ -12,10 +12,7 @@
 ![](https://streak-stats.demolab.com/?user=tupesiddhesh7000&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.shion.dev/api/top-langs/?username=tupesiddhesh7000&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=tupesiddhesh7000&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
+![snake gif](https://github.com/tupesiddhesh7000/tupesiddhesh7000/blob/output/github-snake-dark.svg)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
